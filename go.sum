@@ -1,0 +1,4 @@
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/ms77grz/posttestgo v0.0.0-20231218072658-9d876820fb23 h1:Rovo60TI2IjjQPSh6y7T31MmJk50r58OKzL+aeSsyxE=
+github.com/ms77grz/posttestgo v0.0.0-20231218072658-9d876820fb23/go.mod h1:bWioKQ0bSYQeKgHPGyfCnb2S6s8HHUl2pSltFu4TQ5k=
