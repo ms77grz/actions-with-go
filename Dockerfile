@@ -5,7 +5,7 @@ FROM golang:latest AS builder
 
 # Install git.
 # Git is required for fetching the dependencies.
-RUN apk update && apk add --no-cache git
+RUN apt update && apt add --no-cache git
 
 RUN mkdir /pro
 ADD ./usePost.go /pro/
